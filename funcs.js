@@ -1,3 +1,3 @@
 function myFunction() {
-  alert("it works")
+  alert("it's blue now!")
 }
